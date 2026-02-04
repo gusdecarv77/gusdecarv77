@@ -19,7 +19,6 @@ I am bridging the gap between deep human linguistic analysis and technical AI im
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Gustaf Ganz** | An AI assistant specialized in German essayistic tradition and classical literature. | Python, NLP, RAG |
 | **German Grammar on Python** | Codifying complex German grammatical structures into functional programming logic. | Python, RegEx |
 | **Multilingual Pipeline** | Automated news classification and translation (PT, DE, EN) using NLP techniques. | Python, NLP APIs |
 
