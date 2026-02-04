@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Gustavo de Carvalho
 
 ### Germanist & Translator | AI Engineering Student | NLP Specialist
 
